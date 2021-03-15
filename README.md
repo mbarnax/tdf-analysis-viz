@@ -1,2 +1,2 @@
-# tdf-analysis-viz
-Analysis and visualisation of Tour de France dataset
+# Analysis and visualisation of Tour de France dataset
+
